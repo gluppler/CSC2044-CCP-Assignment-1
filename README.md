@@ -1,7 +1,8 @@
 # Project Title: Concurrent Bank Account Transaction System
 # Course Code: CSC2044 (Concurrent Programming in Java)
 
-## BY Chew Zhan Hong, Student 2, Student 3.
+## BY Chew Zhan Hong, Adryan Cheah Weng Kit, Sri Ram A/L Arumuga Jothi
+
 
 --- 
 
